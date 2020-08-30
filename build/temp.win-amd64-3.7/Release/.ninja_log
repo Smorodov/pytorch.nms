@@ -1,0 +1,4 @@
+# ninja log v5
+0	2322	620479893	C:/nms/build/temp.win-amd64-3.7/Release/nms/cpu_nms.obj	4795853d10e8155
+1	1023	620479895	C:/nms/build/temp.win-amd64-3.7/Release/nms/gpu_nms.obj	793221b93bf951bb
+32	11071	620479905	C:/nms/build/temp.win-amd64-3.7/Release/nms/nms_kernel.obj	473b08f8060b7f13
